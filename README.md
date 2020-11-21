@@ -17,5 +17,4 @@ https://ameblo.jp/daidaidai-kun/entry-12597567552.html?frm=theme
 7.サブルーチンを使う
 https://ameblo.jp/daidaidai-kun/entry-12597575583.html?frm=theme
 
-
 dai
