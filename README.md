@@ -18,3 +18,4 @@ https://ameblo.jp/daidaidai-kun/entry-12597567552.html?frm=theme
 https://ameblo.jp/daidaidai-kun/entry-12597575583.html?frm=theme
 
 dai
+20201121
