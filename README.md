@@ -10,9 +10,11 @@ Sample code in Ameba blog
   https://ameblo.jp/daidaidai-kun/entry-12594443588.html?frm=theme
 4. 素数を判断する  
   https://ameblo.jp/daidaidai-kun/entry-12595841607.html?frm=theme
-5. 性能を確認してみる  
+5. 性能を確認して、改善する  
+  sosu5.py  
   https://ameblo.jp/daidaidai-kun/entry-12597464393.html?frm=theme
 6. 引数を渡して、あらゆる数に対応できるようにする  
+  sosu6.py  
   https://ameblo.jp/daidaidai-kun/entry-12597567552.html?frm=theme
 7. サブルーチンを使う  
   https://ameblo.jp/daidaidai-kun/entry-12597575583.html?frm=theme
