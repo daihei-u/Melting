@@ -2,10 +2,7 @@
 # -*- coding: utf-8 -*-
 import sys
 import math
-if len(sys.argv)>1:
-  keyin=int(sys.argv[1])
-else:
-  keyin=100
+keyin=int(sys.argv[1])
 print(2)
 for wararerukazu in range(3,keyin+1,2):
   flg=1
